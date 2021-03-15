@@ -12,7 +12,7 @@ lbl = Label(window, text="NASA")
 
 lbl.grid(column=0, row=0)
 
-btn = Button(window, text="Click if you feel chalinga")
+btn = Button(window, text="Click if you feel chalinga!")
 
 btn.grid(column=1, row=0)
 
